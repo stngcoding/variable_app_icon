@@ -90,4 +90,4 @@ If you find this package useful, you can support it by giving it a star.
 
 # Credits
 
-This package is created by [Shahriar Nasim Nafi](https://github.com/SNNafi)
+This package is created by [Shahriar Nasim Nafi](https://github.com/SNNafi)# dynamic-app-icon
